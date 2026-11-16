@@ -1,32 +1,20 @@
-<p align="center">
-  <img src="logo.png" alt="Logo" width="500">
-</p>
-<p align="center">
-    <b>19EC527: Real Time Operating System using QNX
-</p>
-<p align="center">
-    <b>Table of Contents
-</p>
+# QNX RTOS Laboratory Index
 
-| Exp. No. | Date | Experiment Title | QR Code | Marks | Signature |
-|---------|------|------------------|--------|------|-----------|
-| 1 | 03/02/2026 | Experiment-101: “Hello World” Application on QNX: VMware Virtual Machine and Raspberry Pi.<br> <<paste your GitHub Repo link here>> |  |  |  |
-| 2 | 10/02/2026 | Experiment-201: Process Creation Using fork() and Parent–Child Execution in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 3 | 17/02/2026 | Experiment-202: Thread Coordination Using Condition Variables in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 4 | 24/02/2026 | Experiment-301: Message Passing between Client and Server in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 5 | 04/03/2026 | Experiment-401: Interrupt Handling with Counter in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 6 | 12/03/2026 | Experiment-402: Repeating Timer using Pulse Messages in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
+**Course:** Real-Time Operating Systems using QNX Neutrino
 
----
+This index links each laboratory experiment to its detailed record in this repository.
 
-I confirm that the experiments and GitHub Links provided are entirely my own work.
+| No. | Experiment | Detailed record |
+|---:|---|---|
+| 1 | Hello World application on QNX VM and Raspberry Pi | [Experiment 101](../Experiment-101/README.md) |
+| 2 | Process creation using `fork()` | [Experiment 201](../Experiment-201/README.md) |
+| 3 | Thread coordination using condition variables | [Experiment 202](../Experiment-202/README.md) |
+| 4 | Client-server communication using QNX message passing | [Experiment 301](../Experiment-301/README.md) |
+| 5 | Interrupt handling with a counter | [Experiment 401](../Experiment-401/README.md) |
+| 6 | Repeating timer using pulse messages | [Experiment 402](../Experiment-402/README.md) |
 
-**Name:**  
-<p align="right">
-    <b>Register Number:  
-</p>
+## Notes
 
-**Date:**
-<p align="right">
-    <b>Learner Signature:  
-</p>
+- Each linked experiment contains its own objective, implementation notes, and results.
+- Expected output is illustrative and should be checked against the target environment.
+- This is an educational laboratory record, not a certified safety-critical software baseline.
