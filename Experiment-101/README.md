@@ -50,8 +50,7 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 
 int main(void) {
 	puts("Hello World!!!");/* prints Hello World!!! */
-	puts("Name: Hemash K");/* prints Name: Hemash K */
-	puts("RegNo: 212225050015");/* prints RegNo: 212225050015*/
+	puts("QNX Hello World");/* prints application status */
 	return EXIT_SUCCESS;
 }
 ```
